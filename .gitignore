@@ -6,7 +6,8 @@ pids
 *.pid
 *.seed
 lib-cov
-build/Release
+build/Releas
+package-lock.json
 node_modules
 jspm_packages
 .npm
